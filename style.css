@@ -662,6 +662,9 @@ padding-top: 30px;
             align-items: center;
             flex-wrap: nowrap;
             height: 311px;
+            background-image: url("https://t4.ftcdn.net/jpg/01/77/05/19/240_F_177051904_6ahDH96OHmSnDgtQPDTDxF5lAYVnDaLA.jpg");
+            background-size: 100%;
+            background-position: center;
         }
         .Apsara video{
             width: 96px;
@@ -673,7 +676,7 @@ padding-top: 30px;
             width: 209px;
         }
         .product{
-            font-size: 343%;
+            font-size: 308%;
             padding-top: 53px;
         }
         .Chanel{
