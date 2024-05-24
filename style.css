@@ -696,8 +696,8 @@ padding-top: 30px;
     justify-content: center;
     }
     .menu li a{
-        margin-right: 2px;
-        font-size: 14px;
+        margin-right: 0px;
+        font-size: 10px;
     }
 
 }
